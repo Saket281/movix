@@ -23,6 +23,9 @@ On the top you can see the movies section where you can navigate all the movies 
 ## Search functionality 
 It has a search functionality where you can search any movie which is released till date and see the rating , the year of release![Screenshot 2023-12-30 231604](https://github.com/Saket281/movix/assets/131553738/a404d4b8-4c6f-413f-ac1c-d26ea122afcc)
 
-when you click on any card present you go the deatils of the specific section like the details of the show , the cast ,you can also play the trailer as well as video related to the show or movie . It also show related movies or show  to the movie which is opened.![Screenshot 2023-12-30 231625](https://github.com/Saket281/movix/asset![Screenshot 2023-12-30 231658](https://github.com/Saket281/movix/assets/131553738/a1f5b4a9-a8cf-4532-9e6f-a543ee5f56c5)
-s/131553738/8586c7e9-6170-48d0-9406-6508d32c345b)
-![Screenshot 2023-12-30 231644](https://github.com/Saket281/movix/assets/131553738/8c0580ed-e945-4f96-a9fc-e51cc9110556)
+when you click on any card present you go the deatils of the specific section like the details of the show , the cast ,you can also play the trailer as well as video related to the show or movie . It also show related movies or show  to the movie which is opened.
+
+![Screenshot 2023-12-30 231625](https://github.com/Saket281/movix/assets/131553738/95420d96-f7fe-48b3-9936-7d875dd84fb6)
+![Screenshot 2023-12-30 231644](https://github.com/Saket281/movix/assets/131553738/5306a65f-1e4c-4dd6-a942-c8129c801372)
+![Screenshot 2023-12-30 231658](https://github.com/Saket281/movix/assets/131553738/a2c818e5-a398-47d3-b529-373d24ca6a31)
+![Screenshot 2023-12-30 231720](https://github.com/Saket281/movix/assets/131553738/77c6d5ee-1bd1-4be9-a5da-5fc3bf874c01)

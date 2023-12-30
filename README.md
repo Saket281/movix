@@ -29,3 +29,15 @@ when you click on any card present you go the deatils of the specific section li
 ![Screenshot 2023-12-30 231644](https://github.com/Saket281/movix/assets/131553738/5306a65f-1e4c-4dd6-a942-c8129c801372)
 ![Screenshot 2023-12-30 231658](https://github.com/Saket281/movix/assets/131553738/a2c818e5-a398-47d3-b529-373d24ca6a31)
 ![Screenshot 2023-12-30 231720](https://github.com/Saket281/movix/assets/131553738/77c6d5ee-1bd1-4be9-a5da-5fc3bf874c01)
+
+
+## Technologies Used
+
+&#8594; Languages used to implement blood bank website system.
+
+     1.	HTML
+     2.	CSS(scss)
+     3.	JavaScript
+     4.	React.js
+  
+
